@@ -1,0 +1,26 @@
+body {
+    background-color: #cccccc;
+}
+
+h1 {
+	font-family: arial, verdana, helvetica;
+	font-size: 60px;
+	color: rgb(46, 120, 173);
+	text-align: center;
+
+}
+
+button {
+	background-color: rgb(97, 178, 240);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    
+
+
+
+}
